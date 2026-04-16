@@ -40,13 +40,29 @@ Before VLAN configuration, all hosts were able to communicate with each other. A
 
 ### Screenshots  
 
-![Network Topology](./week05-1.png)
+### Screenshots  
 
-![Switch Ports and VLAN Tags](./week05-2.png)
+![Network Topology](./task1.png)
 
-![Ping Success Same VLAN](./week05-3.png)
+![Switch VLAN Setup](./task2.png)
 
-![Ping Failure Different VLAN](./week05-4.png)
+![Port VLAN Tagging](./task3.png)
+
+![Ping Success (Same VLAN)](./task4.png)
+
+![Ping Failure (Different VLAN)](./task5.png)
+
+![Network Topology](./task7.png)
+
+![Switch VLAN Setup](./task8.png)
+
+![Port VLAN Tagging](./task9.png)
+
+![Ping Success (Same VLAN)](./task10.png)
+
+![Ping Failure (Different VLAN)](./task11.png)
+
+![Ping Success (Same VLAN)](./task12.png)
 
 ---
 
