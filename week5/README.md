@@ -87,6 +87,13 @@ After configuring the router and VLAN interfaces, hosts from different VLANs wer
 ![Step 9](./task10.png)
 ![Step 6](./task6.png)
 ![Step 10](./task11.png)
+![Step 6](./task13.png)
+![Step 7](./task14.png)
+![Step 8](./task15.png)
+![Step 9](./task16.png)
+![Step 6](./task17.png)
+![Step 10](./task18.png)
+
 
 ---
 
