@@ -37,7 +37,7 @@ The configured Linux host successfully displayed the assigned IP address. This c
 
 ![Console Output](./wee1.png)
 
-![Verification Output]./week1.png)
+![Verification Output](./week1.png)
 
 ---
 
