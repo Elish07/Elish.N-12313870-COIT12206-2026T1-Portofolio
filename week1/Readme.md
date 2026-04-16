@@ -2,8 +2,8 @@
 ## Week 1 Portfolio – GNS3 Basics  
 
 ### Student Details  
-Name: Elish Niraula
-Student ID: 12313870 
+Name: [Your Name]  
+Student ID: [Your ID]  
 Unit: COIT12206 TCP/IP Principles and Protocols  
 Term: 2026 T1  
 
@@ -20,9 +20,7 @@ A new GNS3 project was created and a single Linux host node was added. The IP ad
 ---
 
 ## 3. Commands Used  
-The following command was used to verify the network configuration:
-
-ip address show
+ip address show.
 ---
 
 ## 4. Results  
@@ -30,6 +28,14 @@ The configured Linux host successfully displayed the assigned IP address. This c
 
 ---
 
+## 5. Screenshots  
+The following evidence is included to support the results:
+
+![Network Topology](images/week01-network.png)
+
+![IP Address Verification](images/week01-ip.png)
+
+---
 
 ## 6. Discussion  
 This task demonstrates the fundamental process of configuring a network host within a simulated environment. It highlights the importance of correctly assigning IP addresses and verifying them using system commands. Understanding these steps is essential for more advanced networking configurations.
