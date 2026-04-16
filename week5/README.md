@@ -45,14 +45,7 @@ Before VLAN configuration, all hosts were able to communicate with each other. A
 ![Step 3](./task3.png)
 ![Step 4](./task4.png)
 ![Step 5](./task5.png)
-### Screenshots (Part B)
 
-![Step 6](./task7.png)
-![Step 7](./task8.png)
-![Step 8](./task9.png)
-![Step 9](./task10.png)
-![Step 6](./task6.png)
-![Step 10](./task11.png)
 
 
 ---
@@ -88,13 +81,12 @@ After configuring the router and VLAN interfaces, hosts from different VLANs wer
 
 ### Screenshots  
 
-![Network with Router](./week05-5.png)
-
-![Switch Trunk Configuration](./week05-6.png)
-
-![Router VLAN Interfaces](./week05-7.png)
-
-![Successful Ping Across VLANs](./week05-8.png)
+![Step 6](./task7.png)
+![Step 7](./task8.png)
+![Step 8](./task9.png)
+![Step 9](./task10.png)
+![Step 6](./task6.png)
+![Step 10](./task11.png)
 
 ---
 
