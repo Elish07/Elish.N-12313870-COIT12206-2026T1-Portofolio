@@ -64,29 +64,29 @@ OSPF successfully identified neighbouring routers and maintained routing tables 
 ### Screenshots  
 ### Screenshots  
 
+![OSPF Neighbor 1](./week4%20task2%20(8).png)
+
+![OSPF Route Table](./week4%20task2%20(7).png)
+
+![Routing Details](./week4%20task2%20(5).png)
+
+![Routing Details 2](./week4%20task2%20(3).png)
+
+![Routing Summary](./week4%20task2%20(2).png)
+
+![Neighbor Info](./week4%20task2%20(13).png)
+
+![OSPF Output](./week4%20task2%20(12).png)
+
+![Traceroute Before](./week4%20task2%20(11).png)
+
+![Link Failure](./week4%20task2%20(10).png)
+
+![Traceroute After](./week4%20task2%20(1).png)
+
+![Final Path](./week4%20task2%20(2).png)
+
 ![OSPF Setup](./week4%20task%202.png)
-
-![OSPF Neighbor 1](./week4%20task2%20(1).png)
-
-![OSPF Route Table](./week4%20task2%20(10).png)
-
-![Routing Details](./week4%20task2%20(11).png)
-
-![Routing Details 2](./week4%20task2%20(12).png)
-
-![Routing Summary](./week4%20task2%20(13).png)
-
-![Neighbor Info](./week4%20task2%20(2).png)
-
-![OSPF Output](./week4%20task2%20(3).png)
-
-![Traceroute Before](./week4%20task2%20(5).png)
-
-![Link Failure](./week4%20task2%20(7).png)
-
-![Traceroute After](./week4%20task2%20(8).png)
-
-![Final Path](./week4%20task2%20(9).png)
 
 ---
 
