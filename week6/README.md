@@ -38,12 +38,11 @@ The ARP table dynamically updated as different hosts communicated, demonstrating
 ---
 
 ### Screenshots  
+### Screenshots  
 
-![ARP Table Initial](./week06-1.png)
+![ARP Table](./Screenshot%202026-04-16%20002120.png)
 
-![ARP After Ping](./week06-2.png)
-
-![ARP Updated](./week06-3.png)
+![Routing / Gateway Result](./Screenshot%202026-04-16%20122921.png)
 
 ---
 
