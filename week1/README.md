@@ -30,15 +30,14 @@ The configured Linux host successfully displayed the assigned IP address. This c
 ---
 
 ## 5. Screenshots  
-The following evidence is included to support the results:
 
-![Network Topology](../Screenshot%202026-03-26%20133041.png)
+![Network Topology](./Screenshot%202026-03-26%20133041.png)
 
-![IP Configuration](../Screenshot%202026-04-15%20095923.png)
+![IP Configuration](./Screenshot%202026-04-15%20095923.png)
 
-![Console Output](../wee1.png)
+![Console Output](./wee1.png)
 
-![Verification Output](../week1.png)
+![Verification Output]./week1.png)
 
 ---
 
