@@ -27,13 +27,17 @@ sysctl net.ipv4.ip_forward
 ### Results  
 The routing tables displayed the correct network paths. Communication between hosts across different subnets was successful, confirming that routing was functioning correctly.
 
+
 ### Screenshots  
 
-![Network Topology](./week04-1.png)
+![Network Topology](./week%204%20(9).png)
 
-![Routing Table](./week04-2.png)
+![IP Configuration](./week%204%20(4).png)
 
-![Ping Result](./week04-3.png)
+![Routing Table](./week%204%20(5).png)
+
+![Forwarding Configuration](./week%204%20(8).png)
+
 
 ---
 
