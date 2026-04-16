@@ -2,8 +2,8 @@
 ## Week 1 Portfolio – GNS3 Basics  
 
 ### Student Details  
-Name: [Your Name]  
-Student ID: [Your ID]  
+Name: Elish Niraula 
+Student ID: 12313870
 Unit: COIT12206 TCP/IP Principles and Protocols  
 Term: 2026 T1  
 
