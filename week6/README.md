@@ -81,11 +81,29 @@ Routing tables confirmed that packets were correctly forwarded through routers.
 
 ### Screenshots  
 
-![Network Topology](./week06-4.png)
+![Network Topology](./week%206.png)
 
-![Routing Table](./week06-5.png)
+![Host 1](./host%201.png)
 
-![Ping Across Subnets](./week06-6.png)
+![Host 2](./host%202.png)
+
+![Host 3](./host%203.png)
+
+![Host 4](./host%204.png)
+
+![Host A](./host%20A.png)
+
+![Host C](./host%20C.png)
+
+![Host D](./host%20D.png)
+
+![Router 1](./router%201.png)
+
+![Router 1 Table](./router%201.1.png)
+
+![Router 2](./router%202.png)
+
+![Router 2 Table](./router%202.2.png)
 
 ---
 
