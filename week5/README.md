@@ -45,7 +45,7 @@ Before VLAN configuration, all hosts were able to communicate with each other. A
 ![Step 3](./task3.png)
 ![Step 4](./task4.png)
 ![Step 5](./task5.png)
-
+![Step 6](./task6.png)
 ### Screenshots (Part B)
 
 ![Step 6](./task7.png)
@@ -53,7 +53,7 @@ Before VLAN configuration, all hosts were able to communicate with each other. A
 ![Step 8](./task9.png)
 ![Step 9](./task10.png)
 ![Step 10](./task11.png)
-![Step 11](./task12.png)
+
 
 ---
 
