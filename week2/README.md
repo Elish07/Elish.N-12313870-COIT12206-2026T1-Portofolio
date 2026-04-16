@@ -42,13 +42,21 @@ Ping tests between hosts were successful, demonstrating proper network connectiv
 ## 5. Screenshots  
 The following evidence is included to support the results:
 
-![IP Configuration](./week02-1.png)
+![IP Configuration](./Screenshot%202026-03-23%20173356%20(1).png)
 
-![Ping Successful](./week02-2.png)
+![IP Configuration Method](./Screenshot%202026-03-23%20175004%20(1).png)
 
-![Ping Error](./week02-3.png)
+![Console Output](./Screenshot%202026-03-23%20181351%20(1).png)
 
-![Ping Options](./week02-4.png)
+![Console Output 2](./Screenshot%202026-03-23%20181356%20(1).png)
+
+![Ping Success](./Screenshot%202026-03-23%20181406%20(1).png)
+
+![Ping Error](./Screenshot%202026-03-23%20181414%20(1).png)
+
+![Ping Options](./Screenshot%202026-03-23%20183249%20(1).png)
+
+![Additional Result](./Screenshot%202026-03-23%20183431%20(1).png)
 
 ---
 
