@@ -62,14 +62,31 @@ traceroute <destination-ip>
 OSPF successfully identified neighbouring routers and maintained routing tables dynamically. After disconnecting a link, the routing path changed automatically, demonstrating OSPF’s adaptability.
 
 ### Screenshots  
+### Screenshots  
 
-![OSPF Neighbors](./week04-4.png)
+![OSPF Setup](./week4%20task%202.png)
 
-![OSPF Routes](./week04-5.png)
+![OSPF Neighbor 1](./week4%20task2%20(1).png)
 
-![Traceroute Before](./week04-6.png)
+![OSPF Route Table](./week4%20task2%20(10).png)
 
-![Traceroute After](./week04-7.png)
+![Routing Details](./week4%20task2%20(11).png)
+
+![Routing Details 2](./week4%20task2%20(12).png)
+
+![Routing Summary](./week4%20task2%20(13).png)
+
+![Neighbor Info](./week4%20task2%20(2).png)
+
+![OSPF Output](./week4%20task2%20(3).png)
+
+![Traceroute Before](./week4%20task2%20(5).png)
+
+![Link Failure](./week4%20task2%20(7).png)
+
+![Traceroute After](./week4%20task2%20(8).png)
+
+![Final Path](./week4%20task2%20(9).png)
 
 ---
 
