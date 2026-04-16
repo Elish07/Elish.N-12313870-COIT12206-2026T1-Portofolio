@@ -27,13 +27,16 @@ ip address show.
 The configured Linux host successfully displayed the assigned IP address. This confirms that the static IP configuration was correctly applied within the GNS3 environment.
 
 ---
-
 ## 5. Screenshots  
 The following evidence is included to support the results:
 
-![Network Topology](images/week01-network.png)
+![Network Topology](images/Screenshot 2026-03-26 133041.png)
 
-![IP Address Verification](images/week01-ip.png)
+![IP Configuration](images/Screenshot 2026-04-15 095923.png)
+
+![Console Output](images/wee1.png)
+
+![Verification Output](images/week1.png)
 
 ---
 
